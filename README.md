@@ -4,8 +4,8 @@ A web-based student management system for organizing co-op students and their wo
 Running the web app locally:
 
 Open two terminal windows:
-  Terminal 1: npm run server
-  Terminal 2: npm run dev
+- Terminal 1: npm run server
+- Terminal 2: npm run dev
 
 
 # Screenshots
