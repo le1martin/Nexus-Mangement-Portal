@@ -9,7 +9,7 @@ Open two terminal windows:
 
 
 # Screenshots
-![main](screenshots/main.png)
+![main](screenshots/main1.png)
 ![applicant](screenshots/applicant.png)
 ![insideapplicant](screenshots/insideapplicant.png)
 ![coordinator](screenshots/coordinator.png)
