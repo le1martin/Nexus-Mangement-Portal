@@ -49,7 +49,7 @@ const Login = () => {
       <div className="auth-card">
         <h1 style={{ color: 'var(--tmu-blue)', marginBottom: '0.5rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
           <GraduationCap size={40} color="var(--tmu-gold)" />
-          Nexus: Management Portal
+          Nexus: Co-op Management System
         </h1>
         <p style={{ color: 'var(--text-muted)', marginBottom: '2rem' }}>
           Enter your credentials to access the portal.

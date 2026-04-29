@@ -1,5 +1,5 @@
-# Co-op Management Portal
-A web-based student management system for organizing co-op students and their work placements.
+# Nexus: Co-op Management System
+A full-stack web application for managing students, applications, and placements in co-op programs.
 
 Running the web app locally:
 
