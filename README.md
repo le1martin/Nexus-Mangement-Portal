@@ -1,5 +1,5 @@
 # Nexus: Co-op Management System
-A full-stack web application for managing students and applications in co-op programs.
+A full-stack portal for managing university co-op applications, document submissions, and communication between students and co-op coordinators.
 
 Running the web app locally:
 
